@@ -1,0 +1,25 @@
+
+.container {
+    font-family: Helvetica, sans-serif;
+    background-color:#A3ADE0;
+  }
+  #title {
+      font-size: 4em;
+    text-align: center;
+  }
+  .text-center {
+    text-align: center;
+  }
+  img {
+   width: 80%;
+  }
+  p {
+    font-size: 2em;
+  }
+  strong {
+    color:red;
+  }
+  ul
+  {
+      list-style-type: none;
+  }
